@@ -35,7 +35,7 @@ Here are some of our accomplishments:
 
 ## Issue Creation Guide
 
-When creating issues for our project, we ask that you follow our guidelines to ensure that the issue is clear, concise, and actionable. You can find our issue creation guide on our GitHub Pages site.
+When creating issues for our project, we ask that you follow our guidelines to ensure that the issue is clear, concise, and actionable. You can find our [Issue Creation Guide](https://DevRightStudios.github.io/issue-creation-guide/) on our GitHub Pages site.
 
 
 ## Contributing
