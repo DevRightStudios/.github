@@ -33,7 +33,4 @@ When creating issues for our project, we ask that you follow our guidelines to e
 ## Contributing
 
 We welcome contributions from all members of our team. If you're interested in contributing, please see our Contribution Guide.
-
-Please replace `^i^` with the actual URL of your Contribution Guide.
-
 Remember, a well-written issue helps us to understand and address your concerns more effectively. Thank you for your contributions!
