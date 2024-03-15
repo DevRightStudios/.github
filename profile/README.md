@@ -4,7 +4,9 @@
 
 Welcome to the home of the DRS Launcher, the heart and soul of our gaming experience. This isn't just any launcher - it's a gateway to immersive worlds, epic adventures, and unforgettable experiences.
 
-The DRS Launcher is a meticulously crafted piece of software designed with one goal in mind: to deliver our games to you, the players, in the most seamless and efficient way possible. Whether it's a sprawling open-world RPG or a heart-pounding action game, the DRS Launcher ensures that every title developed by DRS is just a click away.
+The DRS Launcher is a meticulously crafted piece of software designed with one goal in mind: to deliver our games to you, the players, in the most seamless and efficient way possible. Whether it's a sprawling open-world RPG or a heart-pounding action game, the DRS Launcher ensures that every title developed by DRS is just a click away.  
+
+**Note: The DRSLauncher repository is private and only [DRS Team Members](https://github.com/orgs/DevRightStudios/teams/drs-team) or members that request an invite can contribute to the launcher code. To request an invite, please contact one of our team members.** 
 
 But the DRS Launcher is more than just a delivery system. It's also your personal game library manager. It keeps track of all your installed DRS games, ensuring they're always up-to-date with the latest patches and content updates. No more manual downloads, no more compatibility issues - just pure, uninterrupted gaming.
 
