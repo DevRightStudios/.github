@@ -34,6 +34,11 @@ Here are some of our accomplishments:
 - Accomplishment 3
 -->
 
+## Code Of Conduct
+This section outlines the code of conduct for DevRightStudios. We believe in creating a welcoming and inclusive environment for all members of our community.
+*Please ensure you read and follow our COC*
+[DRS COC](https://github.com/DevRightStudios/.github/blob/main/COC.md)
+
 ## DRS Guides and FAQs
 This section provides quick access to guides and frequently asked questions about DevRightStudios.
 - [Issue Creation Guide](https://github.com/DevRightStudios/.github/blob/main/ISSUECREATIONGUIDE.md)  *This guide provides detailed instructions on how to create an issue in our repository.*
