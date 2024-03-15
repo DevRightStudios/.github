@@ -34,7 +34,12 @@ Here are some of our accomplishments:
 - Accomplishment 3
 -->
 
-## Issue Creation Guide
+## DRS Guides and FAQs
+This section provides quick access to guides and frequently asked questions about DevRightStudios.
+- [Issue Creation Guide](https://github.com/DevRightStudios/.github/blob/main/ISSUECREATIONGUIDE.md) *This guide provides detailed instructions on how to create an issue in our repository.
+- [Contribution Guide](https://github.com/DevRightStudios/.github/blob/main/CONTRIBUTING.md) *This guide provides detailed instructions on how to contribute to our repository. 
+
+## Issue Creation
 
 In the grand tapestry of collaboration that makes up our project, clear and effective communication forms the threads that hold everything together. Each issue that is raised is like a conversation starter, a spark that can ignite a flurry of activity leading to improved code, new features, or resolved bugs. 
 
@@ -48,6 +53,7 @@ Please note that in order to maintain the quality of our project's communication
 
 We appreciate your understanding and cooperation in maintaining the high standards of our project's communication. Your contributions, whether they're code, bug reports, feature suggestions, or anything else, are greatly valued by us. Thank you for your help!
 
+## Contribution 
 
 In the grand symphony of collaboration that is our project, every contribution plays a vital note. Each line of code, each bug report, each suggestion for improvement, they all come together to create a harmonious melody of progress and innovation. And it's contributors like you who are the musicians in this orchestra, the ones who breathe life into the score that is our project.
 
