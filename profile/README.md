@@ -16,9 +16,10 @@ So whether you're a seasoned gamer looking for your next challenge, or a newcome
 
 Our team is composed of the following members:
 
-- [Praxious](https://github.com/Praxious): Founder/Lead Programmer/Producer
+- [Praxious](https://github.com/Praxious): Founder/Lead Programmer/Animator/Producer
 - [Isabell](https://github.com/Isabella-Williams): Project Manager/Concept Artist/Level Design
-- [Kallis](https://github.com/AdventKallis): Programmer/Designer/QA
+- [Kallis](https://github.com/AdventKallis): Programmer/Designer/Lead Animator/QA
+- [Beat Bender](https://github.com/Beat-Bender): Sound Designer/Writer
 
 
 ## Progress
