@@ -35,5 +35,7 @@ If you're new to our project, don't worry! We've got you covered. Here's a step-
 - **Create a separate branch for your changes:** This makes it easier for us to merge your changes and keeps your fork up-to-date with the latest code. This is like keeping your work organized so that it can be easily integrated.
 - **Write clear, concise commit messages:** This makes it easier for us to understand the changes you made and their purpose. This is like providing clear comments on your work.
 - **Document your changes:** If your changes are significant, please add documentation explaining what you changed and why. This is like providing a detailed report of your work.
-- **Test your changes:** Ensure that your changes do not break any existing functionality. This is like double-checking your work.
+- **Test your changes:** Ensure that your changes do not break any existing functionality. This is like double-checking your work.  
+
+Remember, contributions are not just about code. You can contribute by improving documentation, submitting bug reports, proposing new features, and more. Every contribution is valuable to us. Thank you for your help!
 
