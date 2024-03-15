@@ -36,8 +36,8 @@ Here are some of our accomplishments:
 
 ## DRS Guides and FAQs
 This section provides quick access to guides and frequently asked questions about DevRightStudios.
-- [Issue Creation Guide](https://github.com/DevRightStudios/.github/blob/main/ISSUECREATIONGUIDE.md) *This guide provides detailed instructions on how to create an issue in our repository.
-- [Contribution Guide](https://github.com/DevRightStudios/.github/blob/main/CONTRIBUTING.md) *This guide provides detailed instructions on how to contribute to our repository. 
+- [Issue Creation Guide](https://github.com/DevRightStudios/.github/blob/main/ISSUECREATIONGUIDE.md) *This guide provides detailed instructions on how to create an issue in our repository.*
+- [Contribution Guide](https://github.com/DevRightStudios/.github/blob/main/CONTRIBUTING.md) *This guide provides detailed instructions on how to contribute to our repository.* 
 
 ## Issue Creation
 
