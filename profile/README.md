@@ -45,6 +45,7 @@ This section outlines the code of conduct for DevRightStudios. We believe in cre
 This section provides quick access to guides and frequently asked questions about DevRightStudios.
 - [Issue Creation Guide](https://github.com/DevRightStudios/.github/blob/main/ISSUECREATIONGUIDE.md)  *This guide provides detailed instructions on how to create an issue in our repository.*
 - [Contribution Guide](https://github.com/DevRightStudios/.github/blob/main/CONTRIBUTING.md)  *This guide provides detailed instructions on how to contribute to our repository.* 
+- DRS FAQ *This is currently being developed stay tuned.*
 
 ## Issue Creation
 
