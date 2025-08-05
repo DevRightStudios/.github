@@ -22,6 +22,7 @@ Our team is composed of the following members:
 - [Isabell](https://github.com/Isabella-Williams): Project Manager/Concept Artist/Level Design
 - [Kallis](https://github.com/AdventKallis): Programmer/Designer/Lead Animator/QA
 - [Beat Bender](https://github.com/Beat-Bender): Sound Designer/Writer
+- [NoSkillPhill](https://github.com/NoSkillPhill): Story and Narrative Design / Voice Acting
 
 
 ## Progress
